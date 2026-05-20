@@ -7,7 +7,7 @@ Here are s<!-- ═════════════════════�
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f18,50:1a0a3a,100:0a1020&height=200&section=header&text=Building%20AI%20systems%20that%20feel%20useful%20in%20real%20life.&fontSize=28&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineering%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Research%20Enthusiast&descAlignY=68&descSize=13&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f18,50:1a0a3a,100:0a1020&height=200&section=header&text=Building%20AI%20systems%20that%20feel%20useful%20in%20real%20life.&fontSize=28&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineering%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=68&descSize=13&animation=fadeIn" />
 
 </div>
 
@@ -228,73 +228,44 @@ I love turning ideas into <b>usable products</b> through AI and software enginee
 
 ---
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  MODERN STATS SECTION                         -->
+<!--                  CURRENT FOCUS SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
 
-<table>
+<table width="80%">
 <tr>
 
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-<div align="left">
-
-<h2>🚀 Currently Building</h2>
+<h3>🚀 Currently Building</h3>
 
 <ul>
-  <li>AI Research Assistant with Memory</li>
-  <li>Multi-Agent RAG Workflows</li>
-  <li>Full Stack + AI Integrations</li>
-  <li>AI-Powered Productivity Systems</li>
+  <li>AI Research Assistant</li>
+  <li>Multi-Agent RAG Systems</li>
+  <li>Full Stack + AI Apps</li>
+  <li>AI Productivity Tools</li>
 </ul>
 
-<h2>📚 Currently Learning</h2>
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📚 Currently Learning</h3>
 
 <ul>
-  <li>Advanced RAG & Agentic Systems</li>
+  <li>Advanced RAG Systems</li>
   <li>Machine Learning</li>
-  <li>AI Engineering Workflows</li>
+  <li>AI Engineering</li>
+  <li>Agentic Workflows</li>
 </ul>
-
-</div>
-
-</td>
-
-<td valign="top" width="33%">
-
-<div align="center">
-
-<h2>📊 GitHub Stats</h2>
-
-<img
-height="220em"
-src="https://github-readme-stats.vercel.app/api?username=harshadabodkhe&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-</td>
-
-<td valign="top" width="33%">
-
-<div align="center">
-
-<h2>🗣️ Top Languages</h2>
-
-<img
-height="220em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadabodkhe&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
 
 </td>
 
 </tr>
 </table>
 
-</div>
+</div> -->
 
 <br/>
 
