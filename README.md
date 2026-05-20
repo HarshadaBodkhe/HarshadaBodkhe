@@ -113,29 +113,35 @@ I love turning ideas into <b>usable products</b> through AI and software enginee
 <!-- ──────────── PROJECT 1: DWELLO ──────────── -->
 <td width="50%" valign="top">
 
-<a href="https://github.com/HarshadaBodkhe/Dwello-Project.git">
-<img src="https://cdn.corenexis.com/files/c/3419796720.png" width="100%" style="border-radius:8px"/>
+<a href="https://github.com/HarshadaBodkhe/Dwello-Project">
+  <img 
+    src="https://cdn.corenexis.com/files/c/3419796720.png" 
+    width="100%" 
+    style="border-radius:8px;"
+  />
 </a>
 
 <br/>
+<br/>
 
-### 🏡 &nbsp;[Dwello — Stay Reservation Platform](https://github.com/your-username/dwello)
+### <img src="https://cdn.corenexis.com/files/c/9936179720.png" width="22px"/> [Dwello — Stay Reservation Platform](https://github.com/HarshadaBodkhe/Dwello-Project)
 
-> Premium stay reservation platform built with the **MERN stack** — featuring end-to-end authentication, seamless booking workflows, listing management, reviews, and a polished modern UI. Fully deployed and production-ready.
+> Premium stay reservation platform built with the MERN stack featuring authentication, seamless booking workflows, listing management, reviews, and a polished modern UI.
 
-**Status:** &nbsp; Completed &nbsp;·&nbsp;  Deployed on Render
+**Status:** Completed · Deployed on Render
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=express&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshadaBodkhe/Dwello-Project.git
-)
-&nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live_Demo-9b6dff?style=flat-square&logo=render&logoColor=white)](https://dwello.onrender.com)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshadaBodkhe/Dwello-Project)
+
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-9b6dff?style=flat-square&logo=render&logoColor=white)](https://dwello.onrender.com/)
 
 </td>
-
 <!-- ──────────── PROJECT 2: AI CHAT ASSISTANT ──────────── -->
 <td width="50%" valign="top">
 
@@ -145,7 +151,7 @@ I love turning ideas into <b>usable products</b> through AI and software enginee
 
 <br/>
 
-### 🤖 &nbsp;[AI Chat Assistant](https://github.com/your-username/ai-chat-assistant)
+### 🤖 &nbsp;[AI Chat Assistant](https://github.com/HarshadaBodkhe/AI-Agent.git)
 
 > Conversational AI assistant built with **Gemini API** and Streamlit — featuring persistent conversational memory, context-aware responses, and a dynamic, interactive UI. A practical demonstration of real-world LLM integration.
 
@@ -166,23 +172,31 @@ I love turning ideas into <b>usable products</b> through AI and software enginee
 <!-- ──────────── PROJECT 3: SLICEIT ──────────── -->
 <td width="50%" valign="top">
 
-<a href="https://github.com/HarshadaBodkhe/OIBSIP_WebDevelopment_Level3_Task.git">
-<img src="https://cdn.corenexis.com/files/c/4298352720.png" width="100%" style="border-radius:8px"/>
+<a href="https://github.com/HarshadaBodkhe/OIBSIP_WebDevelopment_Level3_Task">
+  <img 
+    src="https://cdn.corenexis.com/files/c/4298352720.png" 
+    width="90%" 
+    style="border-radius:8px;"
+  />
 </a>
 
 <br/>
+<br/>
 
-### 🍕 &nbsp;[SliceIt — Pizza Delivery Platform](https://github.com/your-username/sliceit)
+### <img src="https://cdn.corenexis.com/files/c/3525675720.png" width="22px"/> [SliceIt — Pizza Delivery Platform](https://github.com/HarshadaBodkhe/OIBSIP_WebDevelopment_Level3_Task)
 
-> Full stack pizza delivery application with a **responsive, polished UI**, smooth order workflows, cart management, and a clean full stack architecture. Built to showcase production-grade MERN engineering skills.
+> Full stack pizza delivery application with a responsive UI, smooth order workflows, cart management, and clean MERN architecture.
 
-**Status:** &nbsp; Completed
+**Status:** Completed
+
+
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/sliceit)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshadaBodkhe/OIBSIP_WebDevelopment_Level3_Task)
 
 </td>
 
@@ -235,7 +249,6 @@ I love turning ideas into <b>usable products</b> through AI and software enginee
   <li>AI-Powered Productivity Systems</li>
 </ul>
 
-
 <h2>📚 Currently Learning</h2>
 
 <ul>
@@ -256,7 +269,7 @@ I love turning ideas into <b>usable products</b> through AI and software enginee
 
 <img
 height="220em"
-src="https://github-readme-stats.vercel.app/api?username=harshadabodkhe&show_icons=true&theme=tokyonight&hide_border=true&title_color=9b6dff&icon_color=9b6dff&text_color=c9d1d9&bg_color=0d1117&ring_color=9b6dff&include_all_commits=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=harshadabodkhe&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
 </div>
@@ -271,7 +284,7 @@ src="https://github-readme-stats.vercel.app/api?username=harshadabodkhe&show_ico
 
 <img
 height="220em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadaBodkhe&layout=compact&theme=tokyonight&hide_border=true&title_color=9b6dff&text_color=c9d1d9&bg_color=0d1117"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadabodkhe&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </div>
@@ -295,7 +308,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadaBodk
 
 <img
 width="95%"
-src="https://streak-stats.demolab.com/?user=HarshadaBodkheE&theme=tokyonight&hide_border=true&ring=9b6dff&fire=9b6dff&currStreakLabel=9b6dff&background=0d1117&stroke=1a1a2e&sideLabels=c9d1d9&dates=6e7681"
+src="https://streak-stats.demolab.com/?user=harshadabodkhe&theme=tokyonight&hide_border=true"
 />
 
 </div>
@@ -312,46 +325,31 @@ src="https://streak-stats.demolab.com/?user=HarshadaBodkheE&theme=tokyonight&hid
 
 <img
 width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&color=9b6dff&line=9b6dff&point=c9d1d9&area=true&area_color=9b6dff"
+src="https://github-readme-activity-graph.vercel.app/graph?username=harshadabodkhe&theme=tokyo-night&hide_border=true"
 />
 
 </div>
 
 <br/>
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                -->
+<!--                           FOOTER                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<table width="100%">
-<tr>
-<td valign="middle" width="50%">
-
-**Let's connect and build something amazing!**
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-
-</td>
-<td valign="middle" width="50%" align="right">
-
-> *❝ The best way to predict the future is to build it. ❞*
->
-> — **Alan Kay**
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=9b6dff&style=flat-square&label=Profile+Views)
+> *"The best way to predict the future is to build it."*  
+> — **Alan Kay**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1020,50:1a0a3a,100:0d0f18&height=100&section=footer" />
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=harshadabodkhe&color=blueviolet&style=flat-square&label=Profile+Views" />
+
+<br/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0d1117&height=120&section=footer"/>
+
+</div>
