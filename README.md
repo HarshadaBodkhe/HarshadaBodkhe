@@ -38,97 +38,101 @@ Here are s<!-- ═════════════════════�
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ABOUT ME + TECH STACK                       -->
+<!--                          ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
 ### 👤 &nbsp;About Me
 
+</div>
+
 <p align="left">
-
-I enjoy building intelligent systems and modern applications that solve real-world problems through AI and software engineering.
-
-
-Currently focused on exploring <b>RAG systems, Machine Learning, and AI-powered applications</b> while combining them with modern full stack development to create scalable and practical solutions.
-
-
-Also strengthening problem-solving skills through <b>Data Structures & Algorithms in Java.
-
-
-Interested in building AI-driven applications that combine intelligent systems, clean user experiences, and real-world usability.
-
+I enjoy building intelligent systems and modern applications that solve <b>real-world problems</b> through AI and software engineering.
+</p>
+<p align="left">
+Currently focused on <b>RAG systems, Machine Learning, and AI-powered applications</b> — combining them with modern full stack development to create scalable, practical solutions.
+</p>
+<p align="left">
+Also strengthening problem-solving skills through <b>Data Structures & Algorithms in Java</b>.
+</p>
+<p align="left">
+Passionate about building AI-driven applications that combine intelligent systems, clean user experiences, and real-world usability.
 </p>
 
-</td>
-
-<td width="55%" valign="top">
-
-<h3>⚡ Tech Stack</h3>
-
-<b>Languages</b>
-
-<img src="https://skillicons.dev/icons?i=python" width="36px"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="36px"/>
-
 <br/>
 
-<b>Frontend & Backend</b>
+---
 
-<img src="https://skillicons.dev/icons?i=react" width="36px"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="36px"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="36px"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          TECH STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          TECH STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+### ⚡ Tech Stack
 
-<b>Databases</b>
+<table width="100%" style="border-collapse: collapse;">
 
-<img src="https://skillicons.dev/icons?i=mongodb" width="36px"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="36px"/>
+  <tr>
+    <td width="25%"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" width="28px"/> Python
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=java" width="28px"/> Java
+    </td>
+  </tr>
 
-<br/>
+  <tr>
+    <td><b>Frontend & Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width="28px"/> React
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=nodejs" width="28px"/> Node.js
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=express" width="28px"/> Express
+    </td>
+  </tr>
 
-<b>AI / ML</b>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="28px"/> MongoDB
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=mysql" width="28px"/> MySQL
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=python" width="34px"/>
-&nbsp;&nbsp;
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" width="28px"/> Python
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/google/4285F4" width="28px"/> Gemini API
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="28px"/> AI Tools
+    </td>
+  </tr>
 
-<!-- <img src="https://skillicons.dev/icons?i=streamlit" width="34px"/>
-&nbsp;&nbsp; -->
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" width="28px"/> Git
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=github" width="28px"/> GitHub
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=vscode" width="28px"/> VS Code
+    </td>
+  </tr>
 
-<img src="https://cdn.simpleicons.org/google/4285F4" width="34px"/>
-&nbsp;&nbsp;
+  <tr>
+    <td><b>AI Concepts</b></td>
+    <td>RAG, Streamlit, Typesense</td>
+  </tr>
 
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="34px"/>
-&nbsp;&nbsp;
-
-<br/>
-
-<b>Tools</b>
-
-<img src="https://skillicons.dev/icons?i=git" width="36px"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="36px"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="36px"/>
-
-<p>
-<sub>
-Python &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Gemini API &nbsp;•&nbsp; RAG &nbsp;•&nbsp; Typesense
-</sub>
-</p>
-
-</td>
-</tr>
 </table>
-
 <br/>
 
 ---
@@ -227,7 +231,7 @@ Python &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Gemini API &nbsp;•&nbsp; RAG 
 </a>
 
 <br/>
-<br/>
+
 
 ### <img src="https://cdn.corenexis.com/files/c/3525675720.png" width="22px"/> [SliceIt — Pizza Delivery Platform](https://github.com/HarshadaBodkhe/OIBSIP_WebDevelopment_Level3_Task)
 
