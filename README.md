@@ -27,18 +27,10 @@ Here are s<!-- ═════════════════════�
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=9B6DFF&center=true&vCenter=true&width=600&lines=%3E+Currently+building+AI+Research+Assistant+%26+RAG-based+applications;%3E+AI+Engineering+%7C+Full+Stack+Development+%7C+Intelligent+Systems;%3E+Turning+ideas+into+real+products+through+AI+%26+engineering)](https://git.io/typing-svg)
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshada-bodkhe-05h2794/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshadabodkhe59@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshadaBodkhe)
-&nbsp;
-![Location](https://img.shields.io/badge/📍_India-1a1a2e?style=for-the-badge&logoColor=white)
-
+<div align="center">
+<a href="https://linkedin.com/in/harshada-bodkhe-05h2794"><img src="https://skillicons.dev/icons?i=linkedin" width="36px"/></a>&nbsp;&nbsp;<a href="mailto:harshadabodkhe59@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36px"/></a>&nbsp;&nbsp;<a href="https://github.com/HarshadaBodkhe"><img src="https://skillicons.dev/icons?i=github" width="36px"/></a>&nbsp;&nbsp;<img src="https://img.icons8.com/fluency/48/marker.png" width="36px"/>
 </div>
-
 <br/>
 
 
@@ -51,47 +43,87 @@ Here are s<!-- ═════════════════════�
 
 <table width="100%">
 <tr>
-<td width="45%" valign="top">
+<td width="55%" valign="top">
 
 ### 👤 &nbsp;About Me
 
 <p align="left">
-I enjoy building intelligent systems and modern applications that solve <b>practical problems</b> instead of just demos.
-<br/><br/>
-Currently exploring the intersection of <b>AI and real-world applications</b> through RAG, Machine Learning, and Full Stack Engineering.
-<br/><br/>
-I love turning ideas into <b>usable products</b> through AI and software engineering.
+
+I enjoy building intelligent systems and modern applications that solve real-world problems through AI and software engineering.
+
+
+Currently focused on exploring <b>RAG systems, Machine Learning, and AI-powered applications</b> while combining them with modern full stack development to create scalable and practical solutions.
+
+
+Also strengthening problem-solving skills through <b>Data Structures & Algorithms in Java.
+
+
+Interested in building AI-driven applications that combine intelligent systems, clean user experiences, and real-world usability.
+
 </p>
 
 </td>
+
 <td width="55%" valign="top">
 
-### </> &nbsp;Tech Stack
+<h3>⚡ Tech Stack</h3>
 
-**Languages**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<b>Languages</b>
 
-**Frontend & Backend**<br/>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=express&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python" width="36px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="36px"/>
 
-**Databases**<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br/>
 
-**AI / ML**<br/>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-9b6dff?style=flat-square&logoColor=white)
-![Typesense](https://img.shields.io/badge/Typesense-D52128?style=flat-square&logoColor=white)
+<b>Frontend & Backend</b>
 
-**Tools**<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react" width="36px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="36px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="36px"/>
+
+<br/>
+
+
+<b>Databases</b>
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="36px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="36px"/>
+
+<br/>
+
+<b>AI / ML</b>
+
+<img src="https://skillicons.dev/icons?i=python" width="34px"/>
+&nbsp;&nbsp;
+
+<!-- <img src="https://skillicons.dev/icons?i=streamlit" width="34px"/>
+&nbsp;&nbsp; -->
+
+<img src="https://cdn.simpleicons.org/google/4285F4" width="34px"/>
+&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="34px"/>
+&nbsp;&nbsp;
+
+<br/>
+
+<b>Tools</b>
+
+<img src="https://skillicons.dev/icons?i=git" width="36px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="36px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="36px"/>
+
+<p>
+<sub>
+Python &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Gemini API &nbsp;•&nbsp; RAG &nbsp;•&nbsp; Typesense
+</sub>
+</p>
 
 </td>
 </tr>
