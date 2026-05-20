@@ -156,7 +156,7 @@ Python &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Gemini API &nbsp;•&nbsp; RAG 
 </a>
 
 <br/>
-<br/>
+
 
 ### <img src="https://cdn.corenexis.com/files/c/9936179720.png" width="22px"/> [Dwello — Stay Reservation Platform](https://github.com/HarshadaBodkhe/Dwello-Project)
 
@@ -165,15 +165,22 @@ Python &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Gemini API &nbsp;•&nbsp; RAG 
 **Status:** Completed · Deployed on Render
 
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=express&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb" width="32px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="32px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="32px"/>
 
+<br>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshadaBodkhe/Dwello-Project)
+<a href="https://github.com/HarshadaBodkhe/Dwello-Project">
+  <img src="https://skillicons.dev/icons?i=github" width="32px"/>
+</a>
+&nbsp;
 
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-9b6dff?style=flat-square&logo=render&logoColor=white)](https://dwello.onrender.com/)
+<a href="https://dwello.onrender.com/">
+ <img src="https://cdn.corenexis.com/files/c/9936179720.png" width="22px"/>
+</a>
 
 </td>
 <!-- ──────────── PROJECT 2: AI CHAT ASSISTANT ──────────── -->
@@ -191,13 +198,18 @@ Python &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Gemini API &nbsp;•&nbsp; RAG 
 
 **Status:** &nbsp; Completed
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshadaBodkhe/AI-Agent.git
-)
+<img src="https://skillicons.dev/icons?i=python" width="32px"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/google/4285F4" width="32px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=streamlit" width="32px"/>
 
+<br/>
+
+<a href="https://github.com/HarshadaBodkhe/AI-Agent">
+  <img src="https://skillicons.dev/icons?i=github" width="32px"/>
+</a>
 </td>
 
 </tr>
@@ -223,15 +235,17 @@ Python &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Gemini API &nbsp;•&nbsp; RAG 
 
 **Status:** Completed
 
+<img src="https://skillicons.dev/icons?i=react" width="32px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="32px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="32px"/>
 
+<br/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshadaBodkhe/OIBSIP_WebDevelopment_Level3_Task)
-
+<a href="https://github.com/HarshadaBodkhe/OIBSIP_WebDevelopment_Level3_Task">
+  <img src="https://skillicons.dev/icons?i=github" width="32px"/>
+</a>
 </td>
 
 <!-- ──────────── PROJECT 4: AI RESEARCH ASSISTANT ──────────── -->
@@ -245,13 +259,22 @@ Python &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Gemini API &nbsp;•&nbsp; RAG 
 
 **Status:** &nbsp;🔨 Actively Building &nbsp;·&nbsp; ⚡ Ambitious AI System
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-9b6dff?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-FF6B35?style=flat-square&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-[![Watch This Space](https://img.shields.io/badge/Watch_This_Space_👀-9b6dff?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/ai-research-assistant)
+<img src="https://skillicons.dev/icons?i=python" width="32px"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/ffffff" width="32px"/>
+&nbsp;
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="32px"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/meta/FF6B35" width="32px"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=streamlit" width="32px"/>
+
+<br/>
+
+<a href="https://github.com/HarshadaBodkhe">
+  <img src="https://img.icons8.com/fluency/48/visible.png" width="32px"/>
+</a>
 
 </td>
 
