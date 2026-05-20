@@ -41,6 +41,8 @@ Here are s<!-- ═════════════════════�
 
 <br/>
 
+
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -315,10 +317,15 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=harshadabodk
 > — **Alan Kay**
 
 <br/>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=harshadabodkhe&color=blueviolet&style=flat-square&label=Profile+Views" />
+![Followers](https://img.shields.io/github/followers/HarshadaBodkhe?style=for-the-badge&color=9b6dff&labelColor=0d1117&logo=github&label=Followers)
+&nbsp;
+![Following](https://img.shields.io/github/stars/HarshadaBodkhe?style=for-the-badge&color=22d3ee&labelColor=0d1117&logo=github&label=Stars)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=HarshadaBodkhe&color=9b6dff&style=for-the-badge&label=Profile+Views)
 
-<br/>
+</div>
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0d1117&height=120&section=footer"/>
